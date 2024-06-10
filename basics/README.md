@@ -23,4 +23,7 @@ The fifth script: 4-listmorefiles
 runs ls -a -l
 will display files in long format and hidden files
 
- 
+The sixth script: 5-listmorefiles
+runs ls -a -l -n
+will display files in long format and hidden files plus the user ID and GID will be numbers
+for instance my username etienne is replaced by 1000.
