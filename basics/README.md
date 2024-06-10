@@ -27,3 +27,8 @@ The sixth script: 5-listmorefiles
 runs ls -a -l -n
 will display files in long format and hidden files plus the user ID and GID will be numbers
 for instance my username etienne is replaced by 1000.
+
+The seventh script: 6-firstdirectory
+runs mkdir /tmp/my_first_directory
+create a directory with the absolute path
+
