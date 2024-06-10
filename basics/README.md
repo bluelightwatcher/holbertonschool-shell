@@ -6,6 +6,9 @@ The first line will always start with a shebang in order to "call the bash built
 The second line will be the code itself
 In order to create an empty line we will be using /n
 
-the first script: 0-current_working_directory
+The first script: 0-current_working_directory
 runs pwd
+
+The second script: 1-listit
+runs ls
 
