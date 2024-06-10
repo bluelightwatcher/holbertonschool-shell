@@ -19,4 +19,8 @@ the executable did not work in the terminal when running ./2-bring_me_home but i
 The fourth script: 3-listfiles
 runs ls -l to display the long format
 
+The fifth script: 4-listmorefiles
+runs ls -a -l
+will display files in long format and hidden files
 
+ 
