@@ -12,3 +12,8 @@ runs pwd
 The second script: 1-listit
 runs ls
 
+The third script: 2-bring_me_home
+runs cd ~
+the executable did not work in the terminal when running ./2-bring_me_home but it worked for the checker
+
+
