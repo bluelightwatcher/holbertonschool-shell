@@ -32,3 +32,7 @@ The seventh script: 6-firstdirectory
 runs mkdir /tmp/my_first_directory
 create a directory with the absolute path
 
+The eighth script: 8-movethatfile
+runs mv with origin path to destination/target path
+
+
