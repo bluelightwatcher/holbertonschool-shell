@@ -1,0 +1,11 @@
+total 36
+-rwxrw-r-- 1 1000 1000  32 Jun 12 10:40 0-hello_world
+-rwxrw-r-- 1 1000 1000  28 Jun 12 11:00 1-confused_smiley
+-rwxrw-r-- 1 1000 1000  28 Jun 12 11:02 2-hellofile
+-rwxrw-r-- 1 1000 1000  39 Jun 12 11:05 3-twofiles
+-rwxrw-r-- 1 1000 1000  33 Jun 12 11:10 4-lastlines
+-rwxrw-r-- 1 1000 1000  33 Jun 12 11:11 5-firstlines
+-rwxrw-r-- 1 1000 1000  73 Jun 12 15:12 7-file
+-rwxrw-r-- 1 1000 1000  36 Jun 12 15:30 8-cwd_state
+-rw-rw-r-- 1 1000 1000 521 Jun 12 14:01 README.md
+-rw-rw-r-- 1 1000 1000   0 Jun 12 15:38 test
