@@ -35,4 +35,36 @@ create a directory with the absolute path
 The eighth script: 8-movethatfile
 runs mv with origin path to destination/target path
 
+The ninth script : 9-firstdeletion
+runs rmdir to remove empty directory if directory is not empty I would have to use the option -r (recursive) in order to remove the the directory and the files within it
 
+The tenth script : 10-back
+runs cd - which change the current directory to the previous one the user visited. different from the parent directory it can be in another branch of the file system
+
+11-lists
+runs ls -la . .. /boot
+option l stands for long format 
+option a stands for all 
+. stands for current directory
+.. stands for parent directory
+/boot will list files in the /boot directory
+it prints files and hidden files in a long format
+
+14-copy_html
+runs cp -u wildcard.html .. 
+the u option stands for update and will only overwrite existing file (ending with extension .html) with a newer version
+
+15-lets_move
+runs mv [[:upper:]](*) /tmp/u
+uses character class uppercase to move files starting by a capital letter to the /tmp/u file
+
+16-clean_emacs
+rm *~ 
+this will remove all the file in the current directory ending with the ~extension (tilde) 
+
+17-three
+mkdir -p welcome/to/school
+option p stands for parent
+this will create the directory school and all the parent directories specified in the path if need be
+
+End of the shell basics 
